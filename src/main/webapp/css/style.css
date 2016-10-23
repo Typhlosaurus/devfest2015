@@ -1,7 +1,7 @@
 canvas#spiders {
   width:100%;
   max-height:500px;
-  background-color: rgba(63,81,181,0.4);
+  background-color: rgba(63,181,81,0.4);
 }
 h1.main-title {
   position: relative;

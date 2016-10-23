@@ -711,6 +711,10 @@ nav ul li.active > a {
 
 /*Testimonials*/
 
+.testimonials-img {
+	width: 134px;
+}
+
 .testimonials-slider {
   background: url(../upload/testimonials_bg.jpg) no-repeat center center fixed;
 }

@@ -1,7 +1,12 @@
-# devfest2015
-Material Design App Engine Template for DevFest 2015 Season. App Engine [serves static](https://cloud.google.com/appengine/docs/java/config/appconfig?hl=en#Java_appengine_web_xml_Static_files_and_resource_files) files from dedicated servers and caches.
+# devfest2016
 
-This is a fork of [devfest2015](https://github.com/ajmikzer/devfest2015), restructured as a [Google App Engine](https://cloud.google.com/appengine/) template. Includes some inspirations from project [zeppelin](https://github.com/gdg-x/zeppelin).
+Lightweight fork of Omer's site for devfest2015:
+
+Material Design App Engine Template for DevFest 2015 Season.
+App Engine [serves static](https://cloud.google.com/appengine/docs/java/config/appconfig?hl=en#Java_appengine_web_xml_Static_files_and_resource_files) files from dedicated servers and caches.
+
+This is a fork of [devfest2015](https://github.com/ajmikzer/devfest2015), restructured as a [Google App Engine](https://cloud.google.com/appengine/) template.
+Includes some inspirations from project [zeppelin](https://github.com/gdg-x/zeppelin).
 
 Demo can be found here: http://rtv-devfest.appspot.com.
 

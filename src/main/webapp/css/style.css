@@ -716,7 +716,7 @@ nav ul li.active > a {
 }
 
 .testimonials-slider {
-  background: url(../upload/testimonials_bg.jpg) no-repeat center center fixed;
+  background: #3fb551;
 }
 
 .testimonials-slider .item {
@@ -1524,4 +1524,12 @@ h1.agenda {
 .statistics-block {
     font-size: 3em;
     font-weight: 200;
+}
+
+.highlights-section {
+	background: rgba(63,181,81,1);
+}
+
+.highlights-section .intro-text {
+	color: white;
 }
